@@ -1,2 +1,2 @@
-# Graphing-mathematical-functions-with-derivative-calculator
+# Graphing-mathematical-functions-plus-derivative-calculator
 Graphing functions with JavaFx. 
